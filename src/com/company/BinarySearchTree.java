@@ -9,7 +9,7 @@ public class BinarySearchTree implements Tree {
 
     @Override
     public void delete() {
-        System.out.println("Removing a given item ....");
+        System.out.println("Removing a given item 2 ....");
     }
 
     @Override

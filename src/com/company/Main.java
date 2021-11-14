@@ -10,5 +10,7 @@ public class Main {
         tree.traverse();
         tree.leftRotation();
         tree.rightRotation();
+
+        System.out.println("Ini Bagus banget");
     }
 }
